@@ -28,7 +28,7 @@ const CONFIG = {
   },
 
   bride: {
-    name: "노다 나나코",
+    name: "나나코",
     nameEn: "Bride",
     father: "노다 요시키",
     mother: "노다 요우코",
